@@ -1,0 +1,28 @@
+body {
+    background: yellow
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: white
+}
+.paragraph-2 {
+    border: 10px solid pink;
+    border-radius: 20px;
+    font-size: 24pt;
+    margin-bottom: 60pt;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: CourierNew
+}
+.homework-paragraph {
+    font-style: oblique;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px green;
+    text-align: center;
+}
